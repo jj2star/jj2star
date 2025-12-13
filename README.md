@@ -1,5 +1,5 @@
 <!-- 프로필 상단 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=Hi+there!+I'm+sora2931;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=Hi+there!+I'm+jj2star;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
 
